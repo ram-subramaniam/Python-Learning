@@ -1,8 +1,4 @@
-from tkinter.font import names
-
-
 Names =  ['Ram','Sam','Tara','Carolina']
-
 # for loop intendation
 for name in Names :
     print(name.title()+","+"you are a great Person"+ ".")
