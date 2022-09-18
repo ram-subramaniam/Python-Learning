@@ -11,3 +11,4 @@ days_to_units(10, "Awesome")
 days_to_units(20, "Great")
 days_to_units(30, "You are Great.")
 
+days_to_units(10, "good")
